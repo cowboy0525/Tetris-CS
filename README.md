@@ -69,10 +69,7 @@ We hope you enjoy playing Tetris as much as we enjoyed creating it. Have fun, an
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/david-gonz%C3%A1lez-tamayo/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/hovig-sam-karakouzian/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" alt="Linkedin" width="40" height="40"/>
-  </a>
-    <a href="https://www.instagram.com/davidgonza0326/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
